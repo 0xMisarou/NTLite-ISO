@@ -1,4 +1,4 @@
-# Win10_Debloated_ISO
+# Win10 Debloated ISO
 
 ### Install Winget
 
